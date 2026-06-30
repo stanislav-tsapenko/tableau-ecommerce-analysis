@@ -21,4 +21,4 @@ This dashboard empowers stakeholders to make data-driven decisions, optimize mar
 - [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/E_commerce_17498228881310/ComprehensiveE-commerceSalesandUserBehaviorAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📸 Visualization
-![AB Test Analysis Dashboard](https://github.com/user-attachments/assets/367c7052-fcf9-4727-bdb6-d2853d350104)
+![your_screenshot_name](https://github.com/user-attachments/assets/new-unique-id)
