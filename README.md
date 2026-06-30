@@ -14,8 +14,11 @@ I developed an interactive Tableau dashboard for end-to-end analysis of sales an
 
 Business Impact:
 This dashboard empowers stakeholders to make data-driven decisions, optimize marketing spend, and focus resources on the most profitable market segments.
-## 🛠 Використані інструменти
+## 🛠 Tech Stack
 - **Data Visualization:** Tableau Public
-  
-## 🔗 Посилання
-[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/E_commerce_17498228881310/ComprehensiveE-commerceSalesandUserBehaviorAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## 🔗 Project Links
+- [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/E_commerce_17498228881310/ComprehensiveE-commerceSalesandUserBehaviorAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## 📸 Visualization
+![AB Test Analysis Dashboard](https://github.com/user-attachments/assets/367c7052-fcf9-4727-bdb6-d2853d350104)
