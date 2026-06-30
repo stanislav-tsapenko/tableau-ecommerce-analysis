@@ -18,4 +18,4 @@ This dashboard empowers stakeholders to make data-driven decisions, optimize mar
 - **Data Visualization:** Tableau Public
   
 ## 🔗 Посилання
-[Переглянути інтерактивний дашборд на Tableau Public](https://public.tableau.com/views/E_commerce_17498228881310/ComprehensiveE-commerceSalesandUserBehaviorAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/E_commerce_17498228881310/ComprehensiveE-commerceSalesandUserBehaviorAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
